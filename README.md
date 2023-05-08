@@ -24,4 +24,4 @@ The objective of this project is to develop a web page for learning platform.
 
 ### Important Links
 
-- Run this website directly in your Browser: [Browser Link](https://sharath-sabbani-glowing-garbanzo-xjx64q4r9x629w4-5500.preview.app.github.dev/index.html)
+- HTML code link: [Browser Link](https://github.com/Sharath-Sabbani/E-Learning.git)
