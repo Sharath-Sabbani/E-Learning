@@ -24,4 +24,4 @@ The objective of this project is to develop a web page for learning platform.
 
 ### Important Links
 
-- HTML code link: [Browser Link](https://github.com/Sharath-Sabbani/E-Learning.git)
+- HTML code link: [Browser Link](https://github.com/Sharath-Sabbani/E-Learning/blob/main/index.html)
